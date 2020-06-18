@@ -1,2 +1,2 @@
 //change world to Mars
-console.log("Hello Mars!\n");
+console.log("Hello All!\n");
